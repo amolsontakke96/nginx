@@ -33,4 +33,4 @@ spec:
   ports:
   - port: 5000
     targetPort: 5000
-    nodePort: 300010
+    nodePort: 30009
